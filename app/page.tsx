@@ -71,7 +71,7 @@ export default function Home() {
               </Col>
               <Col xs={24} md={12} style={{ padding: "20px" }}>
                 <Image
-                  src="/assets/images/palang.png"
+                  src="/assets/images/banner.jpg"
                   width="100%"
                   alt=""
                   preview={false}
